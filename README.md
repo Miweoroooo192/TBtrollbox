@@ -2,8 +2,14 @@
 NOTE: This isnt made by jankenpopp or any TB dev, all rights go to their owners.
 
 Native Trollbox App for Windows using nwjs
+
+## Prequesites
+<b>[Node.js](https://nodejs.org/)</b>
+Internet connection
+idk free space
+An ZIP extractor (you can just use windows explorer its litterally built-in in windows)
 ## How to Use
-Install <b>[Node.js](https://nodejs.org/)</b> then use <b>[Git](https://git-scm.com)</b> to copypaste the source code then type: 
+
 ```
 nw . (make sure nw.exe is inside the folder who you are)
 ```
